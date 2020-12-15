@@ -4,6 +4,5 @@ public class TestMacAutomaticPush {
 //test with new method
 	//test git diff
 	public void testMethod() {
-		//test continuous push
 	}
 }
