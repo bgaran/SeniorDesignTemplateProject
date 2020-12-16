@@ -5,6 +5,8 @@ public class Test {
 		System.out.println("Again");
 
 		System.out.println("Changes on other classes");
+		
+		System.out.println("another");
 	}
 
 }
