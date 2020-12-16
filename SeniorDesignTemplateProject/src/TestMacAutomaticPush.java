@@ -11,5 +11,6 @@ public class TestMacAutomaticPush {
 		//remote
 		//
 		//change
+		String REMOTE="adding a remote string for testing";
 	}
 }
