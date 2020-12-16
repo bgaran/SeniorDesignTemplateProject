@@ -6,6 +6,6 @@ public class Driver {
 	}
 	
 	public static void counter() {
-		
+		for(int index=0;)
 	}
 }
